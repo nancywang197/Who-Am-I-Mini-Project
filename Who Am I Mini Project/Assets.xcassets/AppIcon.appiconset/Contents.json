@@ -16,6 +16,7 @@
       "size" : "29x29"
     },
     {
+      "filename" : "IMG_8403-2.jpg",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "29x29"
@@ -26,6 +27,7 @@
       "size" : "40x40"
     },
     {
+      "filename" : "IMG_8403-1.jpg",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
@@ -36,6 +38,7 @@
       "size" : "60x60"
     },
     {
+      "filename" : "IMG_8403.jpg",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
@@ -69,6 +72,11 @@
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "40x40"
+    },
+    {
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "76x76"
     },
     {
       "idiom" : "ipad",
